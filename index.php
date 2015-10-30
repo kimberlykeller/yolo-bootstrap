@@ -10,7 +10,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
 	<!--optional theme-->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
-
+	<link type="text/css" rel="stylesheet" href="style.css"/>
 	<!--HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries-->
 	<!--WARNING: Respond.js doesn't work if you view the page via file://-->
 	<!--[if lt IE 9]>
@@ -41,29 +41,68 @@
 	<main>
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12">Content
+				<div class="col-md-12" class="puffy">Communication is not possible. The shuttle has no power.
+					Using the gravitational pull of a star to slingshot back in time? We are going to
+					Starbase Montgomery for Engineering consultations prompted by minor read-out anomalies.
+					Probes have recorded unusual levels of geological activity in all five planetary systems.
+					Assemble a team. Look at records of the Drema quadrant.
+					Would these scans detect artificial transmissions as well as natural signals?
+					Communication is not possible. The shuttle has no power.
+					Using the gravitational pull of a star to slingshot back in time? We are going to
+					Starbase Montgomery for Engineering consultations prompted by minor read-out anomalies.
+					Probes have recorded unusual levels of geological activity in all five planetary systems.
+					Assemble a team. Look at records of the Drema quadrant.
+					Would these scans detect artificial transmissions as well as natural signals?
 				</div>
 			<div class="container">
 				<div class="row">
-					<div class="col-md-3">Content A
+					<div class="col-md-3">
+						<h3>These are the voyages of the Starship Voyager.</h3>
+						Exceeding reaction chamber thermal limit.
+						We have begun power-supply calibration.
+						Force fields have been established on all turbo lifts and crawlways.
+						Computer, run a level-two diagnostic on warp-drive systems. Antimatter containment positive.
+						Warp drive within normal parameters. I read an ion trail characteristic of a freighter escape pod.
+						The bomb had a molecular-decay detonator.
+						Detecting some unusual fluctuations in subspace frequencies.
 					</div>
-					<div class="col-md-3">Content B
+					<div class="col-md-3">These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and
+						new civilizations,to boldly go where no one has gone before. We need to neutralize the homing signal. Each unit has total environmental
+						control, gravity, temperature, atmosphere, light, in a protective field. Sensors show energy readings in your area.
+						We had a forced chamber explosion in the resonator coil. Field strength has increased by 3,000 percent.
 					</div>
-					<div class="col-md-3">Content C
+					<div class="col-md-3">These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and
+						new civilizations,to boldly go where no one has gone before. We need to neutralize the homing signal. Each unit has total environmental
+						control, gravity, temperature, atmosphere, light, in a protective field. Sensors show energy readings in your area.
+						We had a forced chamber explosion in the resonator coil. Field strength has increased by 3,000 percent.
 					</div>
-					<div class="col-md-3">Content D
+					<div class="col-md-3">These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and
+						new civilizations,to boldly go where no one has gone before. We need to neutralize the homing signal. Each unit has total environmental
+						control, gravity, temperature, atmosphere, light, in a protective field. Sensors show energy readings in your area.
+						We had a forced chamber explosion in the resonator coil. Field strength has increased by 3,000 percent.
 					</div>
 				</div>
 			</div>
 				<div class="container">
 					<div class="row">
-						<div class="col-md-6">Content E
+						<div class="col-md-6">These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and
+							new civilizations,to boldly go where no one has gone before. We need to neutralize the homing signal. Each unit has total environmental
+							control, gravity, temperature, atmosphere, light, in a protective field. Sensors show energy readings in your area.
+							We had a forced chamber explosion in the resonator coil. Field strength has increased by 3,000 percent.
 						</div>
-						<div class="col-md-6">Content F
+						<div class="col-md-6">These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and
+							new civilizations,to boldly go where no one has gone before. We need to neutralize the homing signal. Each unit has total environmental
+							control, gravity, temperature, atmosphere, light, in a protective field. Sensors show energy readings in your area.
+							We had a forced chamber explosion in the resonator coil. Field strength has increased by 3,000 percent.
 						</div>
 					</div>
 				</div>
 			</div>
 		</div>
 	</main>
+	<footer>
+		<div class="container">
+			<h3>It's a foot!(er)</h3>
+		</div>
+	</footer>
 </body>
