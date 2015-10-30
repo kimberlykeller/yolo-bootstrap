@@ -30,18 +30,30 @@
 				<div class="navbar-header">
 					<a class="navbar-brand" href="#">YOLO</a>
 				</div>
-				<div class="nav navbar-nav pull-right">
-					<ul>
-						<li>BROLO</li>
-						<li>SOLO</li>
-						<li>ROLLO</li>
+					<ul class="nav navbar-nav pull-right">
+						<li><a href="#">brolo</a></li>
+						<li><a href="#">solo</a></li>
+						<li><a href="#">rollo</a> </li>
 					</ul>
-
-				</div>
 			</div>
-
 		</nav>
 	</header>
-
-	</div>
+	<main>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-12">Content
+				</div>
+			<div class="row">
+				<div class="col-md-3">Content A
+				</div>
+				<div class="col-md-3">Content B
+				</div>
+				<div class="col-md-3">Content C
+				</div>
+				<div class="col-md-3">Content D
+				</div>
+			</div>
+			</div>
+		</div>
+	</main>
 </body>
