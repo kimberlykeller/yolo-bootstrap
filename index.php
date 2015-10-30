@@ -28,6 +28,14 @@
 		<nav class="navbar navbar-default">
 			<div class="container">
 				<div class="navbar-header">
+					<a class="navbar-brand" href="#">YOLO</a>
+				</div>
+				<div class="nav navbar-nav pull-right">
+					<ul>
+						<li>BROLO</li>
+						<li>SOLO</li>
+						<li>ROLLO</li>
+					</ul>
 
 				</div>
 			</div>
