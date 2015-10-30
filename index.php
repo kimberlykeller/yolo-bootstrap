@@ -41,7 +41,7 @@
 	<main>
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12"><p class="puffy"> Communication is not possible. The shuttle has no power.
+				<div class="col-md-12"><p class="puffy yellow"> Communication is not possible. The shuttle has no power.
 					Using the gravitational pull of a star to slingshot back in time? We are going to
 					Starbase Montgomery for Engineering consultations prompted by minor read-out anomalies.
 					Probes have recorded unusual levels of geological activity in all five planetary systems.
