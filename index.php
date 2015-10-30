@@ -41,7 +41,7 @@
 	<main>
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12" class="puffy">Communication is not possible. The shuttle has no power.
+				<div class="col-md-12"><p class="puffy"> Communication is not possible. The shuttle has no power.
 					Using the gravitational pull of a star to slingshot back in time? We are going to
 					Starbase Montgomery for Engineering consultations prompted by minor read-out anomalies.
 					Probes have recorded unusual levels of geological activity in all five planetary systems.
@@ -53,11 +53,12 @@
 					Probes have recorded unusual levels of geological activity in all five planetary systems.
 					Assemble a team. Look at records of the Drema quadrant.
 					Would these scans detect artificial transmissions as well as natural signals?
+					</p>
 				</div>
 			<div class="container">
 				<div class="row">
 					<div class="col-md-3">
-						<h3>These are the voyages of the Starship Voyager.</h3>
+						<p class="puffy"> These are the voyages of the Starship Voyager.
 						Exceeding reaction chamber thermal limit.
 						We have begun power-supply calibration.
 						Force fields have been established on all turbo lifts and crawlways.
@@ -65,35 +66,42 @@
 						Warp drive within normal parameters. I read an ion trail characteristic of a freighter escape pod.
 						The bomb had a molecular-decay detonator.
 						Detecting some unusual fluctuations in subspace frequencies.
+						</p>
 					</div>
-					<div class="col-md-3">These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and
+					<div class="col-md-3">
+						<p class="puffy"> These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and
 						new civilizations,to boldly go where no one has gone before. We need to neutralize the homing signal. Each unit has total environmental
 						control, gravity, temperature, atmosphere, light, in a protective field. Sensors show energy readings in your area.
 						We had a forced chamber explosion in the resonator coil. Field strength has increased by 3,000 percent.
+						</p>
 					</div>
-					<div class="col-md-3">These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and
+					<div class="col-md-3"><p class="puffy"> These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and
 						new civilizations,to boldly go where no one has gone before. We need to neutralize the homing signal. Each unit has total environmental
 						control, gravity, temperature, atmosphere, light, in a protective field. Sensors show energy readings in your area.
 						We had a forced chamber explosion in the resonator coil. Field strength has increased by 3,000 percent.
+						</p>
 					</div>
-					<div class="col-md-3">These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and
+					<div class="col-md-3"><p class="puffy"> These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and
 						new civilizations,to boldly go where no one has gone before. We need to neutralize the homing signal. Each unit has total environmental
 						control, gravity, temperature, atmosphere, light, in a protective field. Sensors show energy readings in your area.
 						We had a forced chamber explosion in the resonator coil. Field strength has increased by 3,000 percent.
+						</p>
 					</div>
 				</div>
 			</div>
 				<div class="container">
 					<div class="row">
-						<div class="col-md-6">These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and
+						<div class="col-md-6"><p class="puffy"> These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and
 							new civilizations,to boldly go where no one has gone before. We need to neutralize the homing signal. Each unit has total environmental
 							control, gravity, temperature, atmosphere, light, in a protective field. Sensors show energy readings in your area.
 							We had a forced chamber explosion in the resonator coil. Field strength has increased by 3,000 percent.
+							</p>
 						</div>
-						<div class="col-md-6">These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and
+						<div class="col-md-6"><p class="puffy"> These are the voyages of the Starship Enterprise. Its continuing mission, to explore strange new worlds, to seek out new life and
 							new civilizations,to boldly go where no one has gone before. We need to neutralize the homing signal. Each unit has total environmental
 							control, gravity, temperature, atmosphere, light, in a protective field. Sensors show energy readings in your area.
 							We had a forced chamber explosion in the resonator coil. Field strength has increased by 3,000 percent.
+							</p>
 						</div>
 					</div>
 				</div>
