@@ -10,6 +10,7 @@
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css" integrity="sha512-dTfge/zgoMYpP7QbHy4gWMEGsbsdZeCXz7irItjcC3sPUFtf0kuFbDz/ixG7ArTxmDjLXDmezHubeNikyKGVyQ==" crossorigin="anonymous">
 	<!--optional theme-->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap-theme.min.css" integrity="sha384-aUGj/X2zp5rLCbBxumKTCw2Z50WgIr1vs/PFN4praOTvYXWlVyh2UtNUU0KAUhAX" crossorigin="anonymous">
+	<link type="text/css" rel="stylesheet" href="animate.css"/>
 	<link type="text/css" rel="stylesheet" href="style.css"/>
 	<!--HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries-->
 	<!--WARNING: Respond.js doesn't work if you view the page via file://-->
@@ -41,7 +42,7 @@
 	<main>
 		<div class="container">
 			<div class="row">
-				<div class="col-md-12"><p class="puffy yellow"> Communication is not possible. The shuttle has no power.
+				<div class="col-md-12"><p class="puffy yellow animate fadeInLeft"> Communication is not possible. The shuttle has no power.
 					Using the gravitational pull of a star to slingshot back in time? We are going to
 					Starbase Montgomery for Engineering consultations prompted by minor read-out anomalies.
 					Probes have recorded unusual levels of geological activity in all five planetary systems.
